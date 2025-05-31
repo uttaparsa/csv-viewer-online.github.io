@@ -1,5 +1,5 @@
 # CSV Viewer Online
-### [https://csv-viewer-online.github.io/](https://csv-viewer-online.github.io/)
+https://uttaparsa.github.io/csv-viewer-online.github.io/
 
 ### Used plugins:
 
