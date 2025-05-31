@@ -8,7 +8,18 @@
 
 <body>
 
-  <input type="file" id="input-file" accept=".csv">
+  <div id="input-container">
+    <div>
+      <label for="input-file">Upload CSV file:</label>
+      <input type="file" id="input-file" accept=".csv">
+    </div>
+    
+    <div>
+      <label for="input-url">Or load from URL:</label>
+      <input type="text" id="input-url" placeholder="Enter CSV URL">
+      <button id="load-url-button">Load from URL</button>
+    </div>
+  </div>
 
   <div id="handsontable-container"></div>
 
